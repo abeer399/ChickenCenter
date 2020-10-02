@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "979954577918",
+    "firebase_url": "https://usama-chicken.firebaseio.com",
+    "project_id": "usama-chicken",
+    "storage_bucket": "usama-chicken.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979954577918:android:9ea09df04968576fd550af",
+        "android_client_info": {
+          "package_name": "pk.abeerali.usamaokharvichicken"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979954577918-v3508fvttmop59sl6u8ql8p8tt1ucuqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF8LbBLZ2Y3mA4cUZjDgNDgweYuQa4xbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979954577918-v3508fvttmop59sl6u8ql8p8tt1ucuqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
